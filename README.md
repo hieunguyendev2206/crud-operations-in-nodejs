@@ -7,7 +7,7 @@
 
 2. **CẤU HÌNH TRONG FILE**: .env 
 - MONGOURL: địa chỉ kết nối đến csdl MongoDB
-- PORT: tùy, thuường là 5000 hoặc 8000
+- PORT: tùy, thường là 5000 hoặc 8000
 
 3. **DI CHUYỂN THƯ MỤC VÀO SERVER VÀ CHẠY LỆNH SAU:**
 -     nodemon index.js
