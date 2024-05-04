@@ -1,0 +1,56 @@
+.subjectTable {
+    width: 60%;
+    background-color: white;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+    border-radius: 10px;
+    margin: 50px auto;
+    padding: 50px;
+}
+
+.addButton {
+    text-decoration: none;
+    background-color: #1f9a20;
+    color: white;
+    font-weight: 500;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.subjectTable table {
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+
+}
+
+.subjectTable table thead th {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px;
+    text-align: left;
+}
+
+.subjectTable table tbody td {
+    padding: 10px;
+    text-align: left;
+}
+
+.actionButtons button {
+    border: 0;
+    outline: none;
+    background: red;
+    padding: 8px 10px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.actionButtons a {
+    background: green;
+    padding: 6px 10px;
+    color: white;
+    border-radius: 5px;
+    margin: 0 10px;
+    text-decoration: none;
+}
