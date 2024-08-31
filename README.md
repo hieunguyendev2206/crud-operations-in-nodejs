@@ -1,16 +1,16 @@
-# CRUD QUẢN LÝ MÔN HỌC
+# CRUD COURSE MANAGEMENT
 
-## HƯỚNG DÂN KHỞI CHẠY CHƯƠNG TRÌNH
+## LIVE PROGRAM STARTER
 
-### CÀI ĐẶT
-1. **CLONE CODE TỪ GIT HIEUNGUYENDEV2206**
+### SETTING
+1. **CODE COPIED FROM GIT HIEUNGUYENDEV2206**
 
-2. **CẤU HÌNH TRONG FILE**: .env 
-- MONGOURL: địa chỉ kết nối đến csdl MongoDB
-- PORT: tùy, thường là 5000 hoặc 8000
+2. **CONFIGURATION IN FILE**: .env 
+- MONGOURL: connection address to MongoDB database
+- PORT: depends, usually 5000 or 8000
 
-3. **DI CHUYỂN THƯ MỤC VÀO SERVER VÀ CHẠY LỆNH SAU:**
--     nodemon index.js
+3. **MOVE FOLDER TO SERVER AND RUN THE FOLLOWING COMMAND:**
+- nodemon index.js
 
-4. **DI CHUYỂN THƯ MỤC VÀO CLIENT V CHẠY LỆNH SAU:**
--     npm run start     
+4. **MOVE FOLDER TO CLIENT V RUN THE FOLLOWING COMMAND:**
+- npm starts running
